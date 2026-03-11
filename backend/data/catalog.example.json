@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Red Rose",
+    "price": 1990.0,
+    "image_url": "https://images.unsplash.com/photo-1548094990-c16ca90f1f0d"
+  },
+  {
+    "id": 2,
+    "name": "White Tulip",
+    "price": 1490.0,
+    "image_url": "https://images.unsplash.com/photo-1527061011665-3652c757a4d4"
+  },
+  {
+    "id": 3,
+    "name": "Peony Bouquet",
+    "price": 3290.0,
+    "image_url": "https://images.unsplash.com/photo-1468327768560-75b778cbb551"
+  }
+]
